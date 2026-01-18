@@ -2,7 +2,15 @@
 
 Welcome to your comprehensive guide for deploying a Node.js application to a VPS (Ubuntu). This guide focuses on **security**, **scalability**, and **automation**. 
 
-> **📦 Included Resources**: This guide accompanies the `VPS Deployment with CI_CD Guide.pdf` and `deploy-kit.mp4` files found in this directory. Refer to them for visual walkthroughs!
+> **📦 Included Resources**:
+>
+> 🎥 **Watch the Video Walkthrough**:
+
+> https://github.com/user-attachments/assets/0419b7c6-1995-4bc3-a43f-475a050872ed
+
+>
+> 📄 **Download the PDF Guide**:
+> [VPS Deployment with CI_CD Guide.pdf](./VPS%20Deployment%20with%20CI_CD%20Guide.pdf)
 
 ---
 
