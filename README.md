@@ -259,3 +259,23 @@ jobs:
 2. It pushes the image to Docker Hub.
 3. It logs into your VPS via SSH.
 4. It pulls the new image and restarts your application container.
+
+---
+
+## 🤝 Connect & Support
+
+**Created by Marouane Akrch**
+
+I hope this guide demystifies the deployment process for you! If you found it helpful:
+
+- 🌟 **Star this repository** to show your support!
+- 🐞 **Report issues** if you encounter any problems.
+- 🗣️ **Share it** with other developers who might find it useful.
+
+## 🙏 Thank You
+
+Thank you for using this deployment kit! We hope it simplifies your journey to production and helps you build scalable, secure applications.
+
+> *"Deployment shouldn't be a headache—it should be a celebration of your hard work going live."*
+
+**Happy Coding & Safe Deployments!** 🚀
